@@ -12,6 +12,7 @@
 #include <file.au3>
 #include <array.au3>
 
+
 ;; CONSTANTS
 Const $Version = "1.1.04"
 Const $DataFileNameConst = @ScriptDir & "\auData.ini"  ; name of the ini data file
